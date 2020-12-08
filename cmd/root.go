@@ -12,9 +12,9 @@ var cfgFile string
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "tools",
-	Short: "tools",
-	Long: `tools`,
+	Use:   "ukin",
+	Short: "ukin custom command",
+	Long: `ukin custom command`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
