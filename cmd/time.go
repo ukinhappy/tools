@@ -18,7 +18,7 @@ package cmd
 import (
 	"fmt"
 	"github.com/spf13/cobra"
-	"github.com/ukinhappy/go-example/utils/timex"
+	"github.com/ukinhappy/go-utils/timex"
 	"strconv"
 	"strings"
 	"time"
